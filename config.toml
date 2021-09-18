@@ -18,7 +18,7 @@ copyright = "&copy;2021 Michael H. Freeman"
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Michael H. Freeman”
+  author = "Michael H. Freeman"
   description = "Michael H Freeman founded Smart Prong Technologies, Inc. also known as Semitrex and Helix Semiconductors in 2012"
   shareImage = "images/social.jpg"
   twitterHandle = "saintmichael"
