@@ -13,15 +13,15 @@ uglyURLs = true
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2021 Your Name"
+copyright = "&copy;2021 Michael H. Freeman"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  author = "Michael H. Freeman”
+  description = "Michael H Freeman founded Smart Prong Technologies, Inc. also known as Semitrex and Helix Semiconductors in 2012"
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  twitterHandle = "saintmichael"
 
   # Favicon
   favicon = "favicon.ico"
@@ -34,7 +34,7 @@ copyright = "&copy;2021 Your Name"
       enable = true
       file = "images/background.jpg"
       position = "center center"
-
+    
     # Video
     [params.visual.video]
       enable = false
@@ -50,15 +50,15 @@ copyright = "&copy;2021 Your Name"
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Blog"
+        text = "Phone"
         url = "#"
-
+    
       [[params.links.list1.link]]
         text = "Email"
         url = "#"
-
+    
       [[params.links.list1.link]]
-        text = "Newsletter"
+        text = "Linked In"
         url = "#"
 
   # Links List #2
@@ -67,15 +67,15 @@ copyright = "&copy;2021 Your Name"
       heading = "Social"
 
       [[params.links.list2.link]]
-        text = "Twitter"
+        text = "Facebook"
         url = "#"
-
+    
       [[params.links.list2.link]]
         text = "Instagram"
         url = "#"
-
+    
       [[params.links.list2.link]]
-        text = "Dribbble"
+        text = "Wikipedia"
         url = "#"
 
   # Links List #3
@@ -86,11 +86,11 @@ copyright = "&copy;2021 Your Name"
       [[params.links.list3.link]]
         text = "Link One"
         url = "#"
-
+    
       [[params.links.list3.link]]
         text = "Link Two"
         url = "#"
-
+    
       [[params.links.list3.link]]
         text = "Link Three"
         url = "#"
