@@ -1,6 +1,7 @@
 +++
-title = "Jenny Jones"
-tagline = "Designer. Stylist. Nomad."
+title = "Michael H. Freeman, JD"
+tagline = "Innovator.Aviator.Lawyer."
+
 +++
 
-Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna]({{< ref "luctus-urna.md" >}}) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in]({{< ref "ipsum-in.md" >}}) malesuada congue, [purus sem]({{< ref "purus-sem.md" >}}) ullamcorper massa, sit amet lacinia nibh enim sed massa.
+Smart Prong Technologies, Inc. was founded in 2012 by Michael H. Freeman, J.D. a two-time Emmy Award-winning designer of streaming mobile video technology that became the basis for the IEEE 802.11(n) wireless standard that is still in use today in 4G mobile phones. Licensed by virtually every cell company existing in the 1990’s, these Streaming Mobile Video technologies and patents were ultimately purchased by Samsung, and were asserted in the ***Apple vs. Samsung II\*** litigation, in which Michael testified, as the first one to combine the intelligence of computers with the connectivity of cell phones.
