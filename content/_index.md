@@ -1,6 +1,6 @@
 +++
 title = "Michael H. Freeman, JD"
-tagline = "Innovator.Aviator.Lawyer."
+tagline = "Innovator. Aviator. Lawyer."
 
 +++
 
