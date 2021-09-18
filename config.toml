@@ -10,10 +10,10 @@ relativeURLs = true
 uglyURLs = true
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "G-F32E8MYKND"
 
 # Copyright
-copyright = "&copy;2021 Michael H. Freeman"
+copyright = "&copy;2021 Michael H. Freeman   "
 
 [params]
 
@@ -21,7 +21,7 @@ copyright = "&copy;2021 Michael H. Freeman"
   author = "Michael H. Freeman"
   description = "Michael H Freeman founded Smart Prong Technologies, Inc. also known as Semitrex and Helix Semiconductors in 2012"
   shareImage = "images/social.jpg"
-  twitterHandle = "saintmichael"
+  twitterHandle = "thesaintmichael"
 
   # Favicon
   favicon = "favicon.ico"
@@ -55,11 +55,11 @@ copyright = "&copy;2021 Michael H. Freeman"
     
       [[params.links.list1.link]]
         text = "Email"
-        url = "#"
+        url = "mhf1701@gmail.com"
     
       [[params.links.list1.link]]
         text = "Linked In"
-        url = "#"
+        url = "https://www.linkedin.com/in/michael-freeman-j-d-716a8111/"
 
   # Links List #2
   [[params.links]]
@@ -68,15 +68,15 @@ copyright = "&copy;2021 Michael H. Freeman"
 
       [[params.links.list2.link]]
         text = "Facebook"
-        url = "#"
+        url = "https://www.facebook.com/MichaelHayesFreeman"
     
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "#"
+        url = "https://www.instagram.com/thesaintmichael/?hl=en"
     
       [[params.links.list2.link]]
         text = "Wikipedia"
-        url = "#"
+        url = "https://en.wikipedia.org/wiki/Helix_Semiconductors"
 
   # Links List #3
   [[params.links]]
@@ -84,15 +84,15 @@ copyright = "&copy;2021 Michael H. Freeman"
       heading = "Network"
 
       [[params.links.list3.link]]
-        text = "Link One"
+        text = "Pulse Magazine Cover"
         url = "#"
     
       [[params.links.list3.link]]
-        text = "Link Two"
+        text = "Tulsa World"
         url = "#"
     
       [[params.links.list3.link]]
-        text = "Link Three"
+        text = "Semitrex"
         url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
