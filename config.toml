@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "www.capacitorgenius.com"
+baseURL = "https://www.capacitorgenius.com"
 languageCode = "en-US"
 title = "Split - HTML Template Demo"
 theme = "hugo-split-theme"
