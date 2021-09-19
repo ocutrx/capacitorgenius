@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://www.capacitorgenius.com"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Michael H Freeman"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -20,7 +20,7 @@ copyright = "&copy;2021 Michael H. Freeman   "
   # Metadata for search engines and social sharing
   author = "Michael H. Freeman"
   description = "Michael H Freeman founded Smart Prong Technologies, Inc. also known as Semitrex and Helix Semiconductors in 2012"
-  shareImage = "images/social.jpg"
+  shareImage = "images/background.jpg"
   twitterHandle = "thesaintmichael"
 
   # Favicon
@@ -95,7 +95,4 @@ copyright = "&copy;2021 Michael H. Freeman   "
         text = "Semitrex"
         url = "#"
 
-  # The original template is released under the Creative Commons Attribution 3.0 License.
-  # Please keep the original attribution link when using for your own project.
-  # If you'd like to use the template without the attribution, you can check out
-  # the license option via the template author's website: https://onepagelove.com/split
+  # The End
