@@ -84,7 +84,7 @@ copyright = "&copy;2021 Michael H. Freeman   "
       heading = "Network"
 
       [[params.links.list3.link]]
-        text = "Pulse Magazine Cover"
+        text = "Pulse Magazine"
         url = "#"
     
       [[params.links.list3.link]]
